@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3cfbedba-e93a-4b00-85b3-2fd752c4a128": {
+      "ProjectGuid": "3cfbedba-e93a-4b00-85b3-2fd752c4a128",
+      "DisplayName": "CrudUsingReact",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
